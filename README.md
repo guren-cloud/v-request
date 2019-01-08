@@ -34,7 +34,8 @@
 
 ## 使用
 通过上边的部署，我们已经可以在小程序的任意位置进行使用我们的`v-request`黑科技了！    
-使用方法很简单，和[wx.request](https://developers.weixin.qq.com/miniprogram/dev/api/wx.request.html)官方API的用法基本保持一致，我们只需要把原来的`wx.request`改成`wx.vrequest`即可。
+使用方法很简单，和[wx.request](https://developers.weixin.qq.com/miniprogram/dev/api/wx.request.html)官方API的用法基本保持一致    
+我们只需要把原来的`wx.request`改成`wx.vrequest`即可。
 
 ### GET请求例子
 ```js    
@@ -71,6 +72,8 @@ wx.login({
 ![](https://box.kancloud.cn/b9f81ed3207972f0c508ded7bd1a97d4_1281x818.png)
 
 ## 其他说明
-代码仅供学习，请勿滥用或用于非法用途。
-本方法由古人云小程序原创研发，欢迎你关注我们学习更多小程序开发技巧！
+代码仅供学习，请勿滥用或用于非法用途。    
+本方法由[古人云小程序](https://mssnn.cn)原创研发    
+欢迎你关注我们学习更多小程序开发技巧！
+
 ![](https://mssnn.cn/img/qr_gurenyun.jpg)
